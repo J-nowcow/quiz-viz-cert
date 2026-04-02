@@ -2698,5 +2698,1119 @@
     ],
     "answer": 4,
     "explanation": "④ 경사차트"
+  },
+  {
+    "exam": "확인학습",
+    "subject": 1,
+    "subjectName": "경영정보 일반",
+    "questionNumber": 1,
+    "text": "맥킨지 7S 모델에서 ( )는 Strategy, Structure, System, Staff, Skill, Style과 함께 구성 요소이다. 빈칸에 들어갈 용어는?",
+    "choices": [
+      "Shared value",
+      "Stakeholder",
+      "Supply chain",
+      "Synergy"
+    ],
+    "answer": 1,
+    "explanation": "Shared value (공유가치)"
+  },
+  {
+    "exam": "확인학습",
+    "subject": 1,
+    "subjectName": "경영정보 일반",
+    "questionNumber": 2,
+    "text": "가치사슬의 본원적 활동은 내부물류, ( ), 외부물류, 판매/마케팅, 사후서비스가 있다. 빈칸에 들어갈 것은?",
+    "choices": [
+      "생산/운영",
+      "인적자원관리",
+      "기술개발",
+      "조달"
+    ],
+    "answer": 1,
+    "explanation": "생산/운영"
+  },
+  {
+    "exam": "확인학습",
+    "subject": 1,
+    "subjectName": "경영정보 일반",
+    "questionNumber": 3,
+    "text": "같은 산업에서 생산 활동 단계가 비슷한 기업 간에 이루어지는 통합을 의미하는 용어는?",
+    "choices": [
+      "수평적 통합",
+      "수직적 통합",
+      "다각화",
+      "아웃소싱"
+    ],
+    "answer": 1,
+    "explanation": "수평적 통합"
+  },
+  {
+    "exam": "확인학습",
+    "subject": 1,
+    "subjectName": "경영정보 일반",
+    "questionNumber": 4,
+    "text": "치열한 경쟁시장인 레드오션과 경쟁자가 없는 시장인 블루오션을 조합한 말은?",
+    "choices": [
+      "퍼플오션",
+      "그린오션",
+      "옐로오션",
+      "화이트오션"
+    ],
+    "answer": 1,
+    "explanation": "퍼플오션"
+  },
+  {
+    "exam": "확인학습",
+    "subject": 1,
+    "subjectName": "경영정보 일반",
+    "questionNumber": 5,
+    "text": "순매입액 = 매입 가격 + ( ). 빈칸에 들어갈 것은?",
+    "choices": [
+      "매입 부대 비용",
+      "매출원가",
+      "기말 재고액",
+      "영업이익"
+    ],
+    "answer": 1,
+    "explanation": "매입 부대 비용"
+  },
+  {
+    "exam": "확인학습",
+    "subject": 1,
+    "subjectName": "경영정보 일반",
+    "questionNumber": 6,
+    "text": "매출원가 = 기초상품재고액 + 순매입액 - ( ). 빈칸에 들어갈 것은?",
+    "choices": [
+      "기말 상품 재고액",
+      "매출총이익",
+      "영업비용",
+      "당기순이익"
+    ],
+    "answer": 1,
+    "explanation": "기말 상품 재고액"
+  },
+  {
+    "exam": "확인학습",
+    "subject": 1,
+    "subjectName": "경영정보 일반",
+    "questionNumber": 7,
+    "text": "기업에서 발생한 거래를 현금 유입이나 유출과는 관계 없이 거래가 발생한 시점에 재무제표에 반영하는 것을 무엇이라 하는가?",
+    "choices": [
+      "발생주의",
+      "현금주의",
+      "보수주의",
+      "중요성의 원칙"
+    ],
+    "answer": 1,
+    "explanation": "발생주의"
+  },
+  {
+    "exam": "확인학습",
+    "subject": 1,
+    "subjectName": "경영정보 일반",
+    "questionNumber": 8,
+    "text": "매출액(수익)과 비용이 일치하는 매출 수준 또는 생산 수준을 무엇이라 하는가?",
+    "choices": [
+      "손익분기점",
+      "한계이익",
+      "공헌이익",
+      "영업레버리지"
+    ],
+    "answer": 1,
+    "explanation": "손익분기점"
+  },
+  {
+    "exam": "확인학습",
+    "subject": 1,
+    "subjectName": "경영정보 일반",
+    "questionNumber": 9,
+    "text": "기업에 투자된 자본을 얼마나 효율적으로 사용하였는가를 측정하는 재무비율은?",
+    "choices": [
+      "활동성 비율",
+      "수익성 비율",
+      "안정성 비율",
+      "성장성 비율"
+    ],
+    "answer": 1,
+    "explanation": "활동성 비율"
+  },
+  {
+    "exam": "확인학습",
+    "subject": 1,
+    "subjectName": "경영정보 일반",
+    "questionNumber": 10,
+    "text": "기업의 장기적인 재무적 안정성을 분석하기 위해 이용하는 재무비율은?",
+    "choices": [
+      "안정성 비율",
+      "수익성 비율",
+      "활동성 비율",
+      "유동성 비율"
+    ],
+    "answer": 1,
+    "explanation": "안정성 비율"
+  },
+  {
+    "exam": "확인학습",
+    "subject": 1,
+    "subjectName": "경영정보 일반",
+    "questionNumber": 11,
+    "text": "미리 정해진 조건에 따라 일정한 기간 내에 특정자산을 사거나 팔 수 있는 권리를 무엇이라 하는가?",
+    "choices": [
+      "옵션",
+      "선물",
+      "스왑",
+      "워런트"
+    ],
+    "answer": 1,
+    "explanation": "옵션"
+  },
+  {
+    "exam": "확인학습",
+    "subject": 1,
+    "subjectName": "경영정보 일반",
+    "questionNumber": 12,
+    "text": "상품이나 금융 자산을 미리 결정된 가격으로 미래 일정 시점에 인수도할 것을 약속하는 거래는?",
+    "choices": [
+      "선물",
+      "옵션",
+      "스왑",
+      "헤지"
+    ],
+    "answer": 1,
+    "explanation": "선물"
+  },
+  {
+    "exam": "확인학습",
+    "subject": 1,
+    "subjectName": "경영정보 일반",
+    "questionNumber": 13,
+    "text": "Hall의 경력단계에서 탐색단계 → ( ) → 유지단계 → 쇠퇴단계 순서이다. 빈칸은?",
+    "choices": [
+      "확립단계",
+      "성장단계",
+      "전환단계",
+      "안정단계"
+    ],
+    "answer": 1,
+    "explanation": "확립단계"
+  },
+  {
+    "exam": "확인학습",
+    "subject": 1,
+    "subjectName": "경영정보 일반",
+    "questionNumber": 14,
+    "text": "직무내용이나 보상 등의 실질적인 변동 없이 직급명칭만 변경되는 승진을 무엇이라 하는가?",
+    "choices": [
+      "대용승진(건조승진)",
+      "특별승진",
+      "발탁승진",
+      "정기승진"
+    ],
+    "answer": 1,
+    "explanation": "대용승진 (준승진, 건조승진)"
+  },
+  {
+    "exam": "확인학습",
+    "subject": 1,
+    "subjectName": "경영정보 일반",
+    "questionNumber": 15,
+    "text": "평정척도법과 중요사건기록법을 혼용하여 보다 정교하게 계량적으로 수정한 인사 평가 방법은?",
+    "choices": [
+      "행동기준평가법(BARS)",
+      "목표관리법(MBO)",
+      "360도 평가",
+      "강제배분법"
+    ],
+    "answer": 1,
+    "explanation": "행동기준평가법 (BARS)"
+  },
+  {
+    "exam": "확인학습",
+    "subject": 1,
+    "subjectName": "경영정보 일반",
+    "questionNumber": 16,
+    "text": "임금의 일부 또는 전부가 물가 지수 등과 연결되어 물가변동에 따라 자동으로 임금을 조정하는 방식은?",
+    "choices": [
+      "슬라이딩 스케일",
+      "베이스업",
+      "성과급",
+      "스톡옵션"
+    ],
+    "answer": 1,
+    "explanation": "슬라이딩 스케일"
+  },
+  {
+    "exam": "확인학습",
+    "subject": 1,
+    "subjectName": "경영정보 일반",
+    "questionNumber": 17,
+    "text": "한 고객이 처음 구매한 시점부터 특정 기업의 고객으로 남아 있는 동안의 총 누적구매액을 무엇이라 하는가?",
+    "choices": [
+      "고객생애가치",
+      "고객획득비용",
+      "고객단가",
+      "고객유지율"
+    ],
+    "answer": 1,
+    "explanation": "고객생애가치"
+  },
+  {
+    "exam": "확인학습",
+    "subject": 1,
+    "subjectName": "경영정보 일반",
+    "questionNumber": 18,
+    "text": "어떤 상품을 구입한 고객에게 보다 고급의 상품을 판매하는 전략은?",
+    "choices": [
+      "상향판매전략",
+      "교차판매전략",
+      "번들판매전략",
+      "플래시세일"
+    ],
+    "answer": 1,
+    "explanation": "상향판매전략"
+  },
+  {
+    "exam": "확인학습",
+    "subject": 1,
+    "subjectName": "경영정보 일반",
+    "questionNumber": 19,
+    "text": "오프라인 매장에서 제품을 살펴보다가 즉석에서 모바일로 구매하는 소비자 쇼핑 행동은?",
+    "choices": [
+      "모루밍",
+      "쇼루밍",
+      "역쇼루밍",
+      "웹루밍"
+    ],
+    "answer": 1,
+    "explanation": "모루밍"
+  },
+  {
+    "exam": "확인학습",
+    "subject": 1,
+    "subjectName": "경영정보 일반",
+    "questionNumber": 20,
+    "text": "네티즌들이 이메일이나 블로그 등을 통해 자발적으로 특정 기업이나 제품을 홍보하도록 제작하여 퍼뜨리는 마케팅은?",
+    "choices": [
+      "바이럴 마케팅",
+      "게릴라 마케팅",
+      "버즈 마케팅",
+      "인플루언서 마케팅"
+    ],
+    "answer": 1,
+    "explanation": "바이럴 마케팅"
+  },
+  {
+    "exam": "확인학습",
+    "subject": 1,
+    "subjectName": "경영정보 일반",
+    "questionNumber": 21,
+    "text": "특정 재화나 서비스가 상표를 가짐으로써 발생되는 바람직한 마케팅 효과를 무엇이라 하는가?",
+    "choices": [
+      "브랜드 자산",
+      "브랜드 인지도",
+      "브랜드 충성도",
+      "브랜드 연상"
+    ],
+    "answer": 1,
+    "explanation": "브랜드 자산"
+  },
+  {
+    "exam": "확인학습",
+    "subject": 1,
+    "subjectName": "경영정보 일반",
+    "questionNumber": 22,
+    "text": "특정 기간 동안에 궁극적으로 광고에 노출되는 소비자의 숫자를 의미하는 광고매체의 선정 기준은?",
+    "choices": [
+      "도달 범위",
+      "빈도",
+      "GRP",
+      "노출도"
+    ],
+    "answer": 1,
+    "explanation": "도달 범위"
+  },
+  {
+    "exam": "확인학습",
+    "subject": 1,
+    "subjectName": "경영정보 일반",
+    "questionNumber": 23,
+    "text": "1000명의 사람에게 도달하는 데 드는 비용을 나타내는 지표는?",
+    "choices": [
+      "CPM",
+      "CPC",
+      "CPA",
+      "CTR"
+    ],
+    "answer": 1,
+    "explanation": "CPM (Cost Per Mille)"
+  },
+  {
+    "exam": "확인학습",
+    "subject": 1,
+    "subjectName": "경영정보 일반",
+    "questionNumber": 24,
+    "text": "특정 시점의 광고투자 효과가 그 이후 시점에서도 발현되는 현상을 무엇이라 하는가?",
+    "choices": [
+      "광고의 이월효과",
+      "광고의 누적효과",
+      "광고의 시너지효과",
+      "광고의 문턱효과"
+    ],
+    "answer": 1,
+    "explanation": "광고의 이월효과"
+  },
+  {
+    "exam": "확인학습",
+    "subject": 1,
+    "subjectName": "경영정보 일반",
+    "questionNumber": 25,
+    "text": "생산자가 특정 지역에 독점적 권한을 부여한 소수의 도·소매상에게만 자사 제품을 유통시키는 전략은?",
+    "choices": [
+      "전속적 유통 경로 전략",
+      "개방적 유통 경로 전략",
+      "선택적 유통 경로 전략",
+      "집중적 유통 전략"
+    ],
+    "answer": 1,
+    "explanation": "전속적 유통 경로 전략"
+  },
+  {
+    "exam": "확인학습",
+    "subject": 1,
+    "subjectName": "경영정보 일반",
+    "questionNumber": 26,
+    "text": "유통 경로상 갈등 발생 원인: 목표불일치, 역할(영역)불일치, ( ) 불일치. 빈칸은?",
+    "choices": [
+      "지각",
+      "가격",
+      "수량",
+      "시간"
+    ],
+    "answer": 1,
+    "explanation": "지각"
+  },
+  {
+    "exam": "확인학습",
+    "subject": 1,
+    "subjectName": "경영정보 일반",
+    "questionNumber": 27,
+    "text": "수직적 마케팅시스템(VMS)의 유형: 기업형 VMS, ( ) VMS, 관리형 VMS. 빈칸은?",
+    "choices": [
+      "계약형",
+      "네트워크형",
+      "협동형",
+      "프랜차이즈형"
+    ],
+    "answer": 1,
+    "explanation": "계약형"
+  },
+  {
+    "exam": "확인학습",
+    "subject": 1,
+    "subjectName": "경영정보 일반",
+    "questionNumber": 28,
+    "text": "크리스탈러의 중심지이론에서 이상적인 상권모형의 형태는?",
+    "choices": [
+      "육각형",
+      "원형",
+      "삼각형",
+      "사각형"
+    ],
+    "answer": 1,
+    "explanation": "육각형"
+  },
+  {
+    "exam": "확인학습",
+    "subject": 1,
+    "subjectName": "경영정보 일반",
+    "questionNumber": 29,
+    "text": "소비자가 어떤 제품에 대해 지불할 의사가 있는 최고 가격을 무엇이라 하는가?",
+    "choices": [
+      "유보가격",
+      "시장가격",
+      "균형가격",
+      "기준가격"
+    ],
+    "answer": 1,
+    "explanation": "유보가격"
+  },
+  {
+    "exam": "확인학습",
+    "subject": 1,
+    "subjectName": "경영정보 일반",
+    "questionNumber": 30,
+    "text": "일정 수량 이상 구매하는 고객에게 가격 할인을 해주어 판매량을 증가시키는 가격 조정 방법은?",
+    "choices": [
+      "수량할인",
+      "계절할인",
+      "현금할인",
+      "거래할인"
+    ],
+    "answer": 1,
+    "explanation": "수량할인"
+  },
+  {
+    "exam": "확인학습",
+    "subject": 1,
+    "subjectName": "경영정보 일반",
+    "questionNumber": 31,
+    "text": "소비자가 가격 변화에 대하여 느끼는 정도가 가격 수준에 따라 차이가 있다는 이론은?",
+    "choices": [
+      "웨버의 법칙",
+      "파레토의 법칙",
+      "엥겔의 법칙",
+      "그레셤의 법칙"
+    ],
+    "answer": 1,
+    "explanation": "웨버의 법칙"
+  },
+  {
+    "exam": "확인학습",
+    "subject": 1,
+    "subjectName": "경영정보 일반",
+    "questionNumber": 32,
+    "text": "매출액을 광고비로 나눈 값을 의미하는 마케팅 성과 지표는?",
+    "choices": [
+      "ROAS",
+      "ROI",
+      "CPC",
+      "CTR"
+    ],
+    "answer": 1,
+    "explanation": "ROAS"
+  },
+  {
+    "exam": "확인학습",
+    "subject": 1,
+    "subjectName": "경영정보 일반",
+    "questionNumber": 33,
+    "text": "제품이 노이즈(noise)에 둔감하도록, 즉 노이즈에 의한 영향을 받지 않거나 덜 받도록 하는 설계는?",
+    "choices": [
+      "로버스트 설계",
+      "모듈러 설계",
+      "동시공학 설계",
+      "린 설계"
+    ],
+    "answer": 1,
+    "explanation": "로버스트 설계"
+  },
+  {
+    "exam": "확인학습",
+    "subject": 1,
+    "subjectName": "경영정보 일반",
+    "questionNumber": 34,
+    "text": "유사한 특성을 지닌 제품이나 부품을 하나의 군으로 분류하고 이를 생산하는 기계의 군을 별도로 운영하는 것은?",
+    "choices": [
+      "그룹 테크놀로지",
+      "셀 생산방식",
+      "유연생산시스템",
+      "자동화 공정"
+    ],
+    "answer": 1,
+    "explanation": "그룹 테크놀로지"
+  },
+  {
+    "exam": "확인학습",
+    "subject": 1,
+    "subjectName": "경영정보 일반",
+    "questionNumber": 35,
+    "text": "재화를 생산하는 시스템은 ( )로, 서비스를 생산하는 시스템은 ( )로 생산 능력을 측정한다. 빈칸은?",
+    "choices": [
+      "산출 척도, 투입 척도",
+      "투입 척도, 산출 척도",
+      "원가 척도, 수량 척도",
+      "효율 척도, 효과 척도"
+    ],
+    "answer": 1,
+    "explanation": "산출 척도, 투입 척도"
+  },
+  {
+    "exam": "확인학습",
+    "subject": 1,
+    "subjectName": "경영정보 일반",
+    "questionNumber": 36,
+    "text": "정상적인 조건 하에서 생산 시스템이 경제적으로 지탱할 수 있는 최대 산출량을 무엇이라 하는가?",
+    "choices": [
+      "유효 생산 능력",
+      "설계 생산 능력",
+      "실제 생산량",
+      "최대 생산 능력"
+    ],
+    "answer": 1,
+    "explanation": "유효 생산 능력"
+  },
+  {
+    "exam": "확인학습",
+    "subject": 1,
+    "subjectName": "경영정보 일반",
+    "questionNumber": 37,
+    "text": "품질 향상 및 공정 개선을 위해 주기적으로 모임을 가지는 다수 근로자들로 구성된 소집단은?",
+    "choices": [
+      "품질분임조",
+      "태스크포스",
+      "프로젝트팀",
+      "자율경영팀"
+    ],
+    "answer": 1,
+    "explanation": "품질분임조"
+  },
+  {
+    "exam": "확인학습",
+    "subject": 1,
+    "subjectName": "경영정보 일반",
+    "questionNumber": 38,
+    "text": "포카요케를 사용하여 종업원의 실수에 기인한 결함을 예방하기 위한 시스템은?",
+    "choices": [
+      "싱고시스템",
+      "식스시그마",
+      "TQM",
+      "카이젠"
+    ],
+    "answer": 1,
+    "explanation": "싱고시스템"
+  },
+  {
+    "exam": "확인학습",
+    "subject": 1,
+    "subjectName": "경영정보 일반",
+    "questionNumber": 39,
+    "text": "표본으로부터 얻어낸 품질 측정값을 시간 순서에 따라 표시하여 정상/비정상을 판별하는 도표는?",
+    "choices": [
+      "관리도",
+      "파레토 차트",
+      "히스토그램",
+      "산점도"
+    ],
+    "answer": 1,
+    "explanation": "관리도"
+  },
+  {
+    "exam": "확인학습",
+    "subject": 1,
+    "subjectName": "경영정보 일반",
+    "questionNumber": 40,
+    "text": "품질 프로그램의 문서화에 대한 국제품질표준은?",
+    "choices": [
+      "ISO 9000",
+      "ISO 14000",
+      "ISO 27001",
+      "ISO 22000"
+    ],
+    "answer": 1,
+    "explanation": "ISO 9000"
+  },
+  {
+    "exam": "확인학습",
+    "subject": 1,
+    "subjectName": "경영정보 일반",
+    "questionNumber": 41,
+    "text": "자재가 재화·서비스로 전환되고 고객에게 전달되는 모든 과정의 상호연결된 사슬을 무엇이라 하는가?",
+    "choices": [
+      "공급 사슬",
+      "가치사슬",
+      "유통 경로",
+      "물류 네트워크"
+    ],
+    "answer": 1,
+    "explanation": "공급 사슬"
+  },
+  {
+    "exam": "확인학습",
+    "subject": 1,
+    "subjectName": "경영정보 일반",
+    "questionNumber": 42,
+    "text": "공급사슬 하류의 소규모 수요 변동이 상류로 갈수록 변동폭이 증가하는 현상은?",
+    "choices": [
+      "채찍 효과",
+      "병목 현상",
+      "지연 효과",
+      "파급 효과"
+    ],
+    "answer": 1,
+    "explanation": "채찍 효과 (Bullwhip Effect)"
+  },
+  {
+    "exam": "확인학습",
+    "subject": 1,
+    "subjectName": "경영정보 일반",
+    "questionNumber": 43,
+    "text": "SCOR 모형의 다섯 가지 범주: 계획, 조달, ( ), 배송, 반품/회수. 빈칸은?",
+    "choices": [
+      "생산",
+      "재고",
+      "물류",
+      "품질"
+    ],
+    "answer": 1,
+    "explanation": "생산"
+  },
+  {
+    "exam": "확인학습",
+    "subject": 1,
+    "subjectName": "경영정보 일반",
+    "questionNumber": 44,
+    "text": "수송된 상품을 입고시키지 않고 물류센터에서 바로 소매업자에게 배송하는 것은?",
+    "choices": [
+      "크로스 도킹",
+      "밀크런",
+      "허브앤스포크",
+      "드롭쉬핑"
+    ],
+    "answer": 1,
+    "explanation": "크로스 도킹"
+  },
+  {
+    "exam": "확인학습",
+    "subject": 1,
+    "subjectName": "경영정보 일반",
+    "questionNumber": 45,
+    "text": "국가 승인 통계를 한 곳에서 검색/분석/활용할 수 있도록 통계청에서 운영하는 사이트는?",
+    "choices": [
+      "KOSIS 국가통계포털",
+      "공공데이터포털",
+      "DART",
+      "KDX"
+    ],
+    "answer": 1,
+    "explanation": "KOSIS 국가통계포털"
+  },
+  {
+    "exam": "확인학습",
+    "subject": 1,
+    "subjectName": "경영정보 일반",
+    "questionNumber": 46,
+    "text": "국내 첫 민간 데이터 거래소이자 유통/소비 빅데이터 플랫폼은?",
+    "choices": [
+      "KDX 한국데이터거래소",
+      "KOSIS",
+      "공공데이터포털",
+      "데이터스토어"
+    ],
+    "answer": 1,
+    "explanation": "KDX 한국데이터거래소"
+  },
+  {
+    "exam": "확인학습",
+    "subject": 1,
+    "subjectName": "경영정보 일반",
+    "questionNumber": 47,
+    "text": "행정안전부에서 운영하는 공공데이터 통합 제공 시스템은?",
+    "choices": [
+      "공공데이터포털",
+      "KOSIS",
+      "SGIS",
+      "국가공간정보포털"
+    ],
+    "answer": 1,
+    "explanation": "공공데이터포털 (data.go.kr)"
+  },
+  {
+    "exam": "확인학습",
+    "subject": 1,
+    "subjectName": "경영정보 일반",
+    "questionNumber": 48,
+    "text": "대한상공회의소의 유통데이터(상품정보+거래정보) 활용 및 분석 서비스를 제공하는 플랫폼은?",
+    "choices": [
+      "유통데이터 서비스 플랫폼",
+      "KDX",
+      "KOSIS",
+      "빅데이터 마켓"
+    ],
+    "answer": 1,
+    "explanation": "유통데이터 서비스 플랫폼"
+  },
+  {
+    "exam": "확인학습",
+    "subject": 2,
+    "subjectName": "데이터 해석 및 활용",
+    "questionNumber": 49,
+    "text": "API를 호출하여 웹 등에서 데이터를 가져올 수 있는 데이터 형식(XML, JSON 등)은 어떤 유형의 데이터인가?",
+    "choices": [
+      "반정형 데이터",
+      "정형 데이터",
+      "비정형 데이터",
+      "메타데이터"
+    ],
+    "answer": 1,
+    "explanation": "반정형 데이터"
+  },
+  {
+    "exam": "확인학습",
+    "subject": 2,
+    "subjectName": "데이터 해석 및 활용",
+    "questionNumber": 50,
+    "text": "비정형 데이터는 정형 데이터와 동일한 테이블 구조를 가지고 있으나, 분석이 어렵다는 차이점이 있다.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 2,
+    "explanation": "X — 비정형 데이터는 테이블 구조가 아님"
+  },
+  {
+    "exam": "확인학습",
+    "subject": 2,
+    "subjectName": "데이터 해석 및 활용",
+    "questionNumber": 51,
+    "text": "빅데이터의 특성(5V)에서 다양한 출처를 뜻하는 특성은?",
+    "choices": [
+      "Veracity (진실성)",
+      "Variety (다양성)",
+      "Velocity (속도)",
+      "Value (가치)"
+    ],
+    "answer": 1,
+    "explanation": "Veracity (진실성)"
+  },
+  {
+    "exam": "확인학습",
+    "subject": 2,
+    "subjectName": "데이터 해석 및 활용",
+    "questionNumber": 52,
+    "text": "데이터 처리 기술 발전 및 비용의 증가는 대표적인 빅데이터 탄생 배경 중 하나이다.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 2,
+    "explanation": "X — 비용 증가가 아니라 비용 감소"
+  },
+  {
+    "exam": "확인학습",
+    "subject": 2,
+    "subjectName": "데이터 해석 및 활용",
+    "questionNumber": 53,
+    "text": "데이터 일반화 오류의 종류에는 ( ), 단일 변수 오류, 과대/과소 적합 등이 있다. 빈칸은?",
+    "choices": [
+      "확증 편향",
+      "표본 편향",
+      "선택 편향",
+      "생존자 편향"
+    ],
+    "answer": 1,
+    "explanation": "확증 편향"
+  },
+  {
+    "exam": "확인학습",
+    "subject": 2,
+    "subjectName": "데이터 해석 및 활용",
+    "questionNumber": 54,
+    "text": "분산은 표준편차의 제곱근이다.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 2,
+    "explanation": "X — 반대. 표준편차가 분산의 제곱근"
+  },
+  {
+    "exam": "확인학습",
+    "subject": 2,
+    "subjectName": "데이터 해석 및 활용",
+    "questionNumber": 55,
+    "text": "카이제곱 분포는 대표적인 ( ) 확률 분포 종류 중 하나이다. 빈칸은?",
+    "choices": [
+      "연속",
+      "이산",
+      "균등",
+      "조건부"
+    ],
+    "answer": 1,
+    "explanation": "연속"
+  },
+  {
+    "exam": "확인학습",
+    "subject": 2,
+    "subjectName": "데이터 해석 및 활용",
+    "questionNumber": 56,
+    "text": "기술통계를 계산할 때 기본적으로 ( ) 값은 제외한 후 연산한다. 빈칸은?",
+    "choices": [
+      "Null (공백)",
+      "0",
+      "음수",
+      "이상값"
+    ],
+    "answer": 1,
+    "explanation": "Null (공백)"
+  },
+  {
+    "exam": "확인학습",
+    "subject": 2,
+    "subjectName": "데이터 해석 및 활용",
+    "questionNumber": 57,
+    "text": "데이터베이스의 구조와 제약 조건을 정의한 것을 SQL 쿼리 언어라고 한다.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 2,
+    "explanation": "X — 스키마(Schema)라고 한다"
+  },
+  {
+    "exam": "확인학습",
+    "subject": 2,
+    "subjectName": "데이터 해석 및 활용",
+    "questionNumber": 58,
+    "text": "트랜잭션이 완료되면 그 결과는 영구적으로 저장되어야 한다는 ACID 원칙은?",
+    "choices": [
+      "지속성(Durability)",
+      "원자성(Atomicity)",
+      "일관성(Consistency)",
+      "격리성(Isolation)"
+    ],
+    "answer": 1,
+    "explanation": "지속성 원칙 (Durability)"
+  },
+  {
+    "exam": "확인학습",
+    "subject": 2,
+    "subjectName": "데이터 해석 및 활용",
+    "questionNumber": 59,
+    "text": "유연한 스키마, 확장성 등의 특징을 가진 대표적인 DBMS는?",
+    "choices": [
+      "NoSQL DBMS",
+      "관계형 DBMS",
+      "계층형 DBMS",
+      "객체지향 DBMS"
+    ],
+    "answer": 1,
+    "explanation": "NoSQL DBMS"
+  },
+  {
+    "exam": "확인학습",
+    "subject": 2,
+    "subjectName": "데이터 해석 및 활용",
+    "questionNumber": 60,
+    "text": "사용자가 물리적 위치에 상관없이 동일한 데이터에 접근할 수 있도록 한다는 DDBMS의 특징은?",
+    "choices": [
+      "지역 사상 투명성",
+      "분할 투명성",
+      "중복 투명성",
+      "장애 투명성"
+    ],
+    "answer": 1,
+    "explanation": "지역 사상 투명성"
+  },
+  {
+    "exam": "확인학습",
+    "subject": 2,
+    "subjectName": "데이터 해석 및 활용",
+    "questionNumber": 61,
+    "text": "행과 열로 구성된 데이터 구조로, 데이터를 저장하는 기본 단위를 무엇이라 하는가?",
+    "choices": [
+      "테이블(릴레이션)",
+      "레코드",
+      "속성",
+      "도메인"
+    ],
+    "answer": 1,
+    "explanation": "테이블 (릴레이션)"
+  },
+  {
+    "exam": "확인학습",
+    "subject": 2,
+    "subjectName": "데이터 해석 및 활용",
+    "questionNumber": 62,
+    "text": "스키마의 종류는 크게 ( ), ( ), 내부 스키마가 있다. 빈칸은?",
+    "choices": [
+      "외부, 개념",
+      "논리, 물리",
+      "개념, 내용",
+      "외부, 내용"
+    ],
+    "answer": 1,
+    "explanation": "외부, 개념"
+  },
+  {
+    "exam": "확인학습",
+    "subject": 2,
+    "subjectName": "데이터 해석 및 활용",
+    "questionNumber": 63,
+    "text": "최소성과 유일성 조건을 모두 만족하는 두 개 이상의 속성을 결합한 키는?",
+    "choices": [
+      "복합키",
+      "슈퍼키",
+      "대체키",
+      "외래키"
+    ],
+    "answer": 1,
+    "explanation": "복합키"
+  },
+  {
+    "exam": "확인학습",
+    "subject": 2,
+    "subjectName": "데이터 해석 및 활용",
+    "questionNumber": 64,
+    "text": "데이터 조작어(DML) 종류로는 CREATE, ALTER, DROP 등이 존재한다.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 2,
+    "explanation": "X — CREATE/ALTER/DROP은 데이터 정의어(DDL)"
+  },
+  {
+    "exam": "확인학습",
+    "subject": 2,
+    "subjectName": "데이터 해석 및 활용",
+    "questionNumber": 65,
+    "text": "이상값 제거는 데이터 분석 결과에 큰 영향을 주지 않는다.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 2,
+    "explanation": "X — 이상값은 분석 결과에 큰 영향을 줄 수 있음"
+  },
+  {
+    "exam": "확인학습",
+    "subject": 2,
+    "subjectName": "데이터 해석 및 활용",
+    "questionNumber": 66,
+    "text": "데이터를 여러 폴드로 나누고 폴드를 번갈아 가며 훈련/검증에 사용하는 검증 방법은?",
+    "choices": [
+      "교차 검증",
+      "홀드아웃",
+      "부트스트래핑",
+      "계층적 분리"
+    ],
+    "answer": 1,
+    "explanation": "교차 검증"
+  },
+  {
+    "exam": "확인학습",
+    "subject": 2,
+    "subjectName": "데이터 해석 및 활용",
+    "questionNumber": 67,
+    "text": "일괄 적재 이후 변경된 데이터만을 백업하는 방식은?",
+    "choices": [
+      "증분 백업",
+      "차등 백업",
+      "전체 백업",
+      "미러 백업"
+    ],
+    "answer": 1,
+    "explanation": "증분 백업"
+  },
+  {
+    "exam": "확인학습",
+    "subject": 2,
+    "subjectName": "데이터 해석 및 활용",
+    "questionNumber": 68,
+    "text": "데이터에서 개인 식별 정보를 완전히 제거하여 특정 개인과 연결할 수 없도록 하는 기술은?",
+    "choices": [
+      "익명화",
+      "가명화",
+      "암호화",
+      "마스킹"
+    ],
+    "answer": 1,
+    "explanation": "익명화"
+  },
+  {
+    "exam": "확인학습",
+    "subject": 3,
+    "subjectName": "경영정보시각화 디자인",
+    "questionNumber": 69,
+    "text": "효과적인 시각화를 위해 일러스트레이션과 장식이 중요하다고 주장한 사람은?",
+    "choices": [
+      "나이젤 홈즈",
+      "에드워드 터프티",
+      "클라우스 윌케",
+      "콜린웨어"
+    ],
+    "answer": 1,
+    "explanation": "나이젤 홈즈"
+  },
+  {
+    "exam": "확인학습",
+    "subject": 3,
+    "subjectName": "경영정보시각화 디자인",
+    "questionNumber": 70,
+    "text": "클라우스 윌케는 시각적 속성의 주요 변수 7가지를 위치, 크기, 형태, 명조, 색상, 기울기, 질감 등으로 정의했다.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 2,
+    "explanation": "X"
+  },
+  {
+    "exam": "확인학습",
+    "subject": 3,
+    "subjectName": "경영정보시각화 디자인",
+    "questionNumber": 71,
+    "text": "콜린웨어는 뇌가 시각정보를 처리할 때 패턴 알아차리기 → 뚜렷한 시각요소 파악하기 → 정의하기 순으로 처리된다고 주장했다.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 2,
+    "explanation": "X — 순서가 다름"
+  },
+  {
+    "exam": "확인학습",
+    "subject": 3,
+    "subjectName": "경영정보시각화 디자인",
+    "questionNumber": 72,
+    "text": "십자 모양 도형은 게슈탈트 법칙 중 연속성의 법칙을 나타낸다.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 2,
+    "explanation": "X"
+  },
+  {
+    "exam": "확인학습",
+    "subject": 3,
+    "subjectName": "경영정보시각화 디자인",
+    "questionNumber": 73,
+    "text": "Power BI와 Tableau 함수 중 평균을 반환하는 함수가 AVERAGE, AVG로 각각 다르다.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "O"
+  },
+  {
+    "exam": "확인학습",
+    "subject": 3,
+    "subjectName": "경영정보시각화 디자인",
+    "questionNumber": 74,
+    "text": "Bullet Chart는 시간 전후의 변화율을 나타내는 대표적인 그래프 유형이다.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 2,
+    "explanation": "X — Bullet Chart는 목표 대비 실적 비교용"
+  },
+  {
+    "exam": "확인학습",
+    "subject": 3,
+    "subjectName": "경영정보시각화 디자인",
+    "questionNumber": 75,
+    "text": "박스플롯, 바이올린 플롯, 스웜 플롯은 대표적인 비율 시각화 그래프이다.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 2,
+    "explanation": "X — 분포 시각화 그래프"
+  },
+  {
+    "exam": "확인학습",
+    "subject": 3,
+    "subjectName": "경영정보시각화 디자인",
+    "questionNumber": 76,
+    "text": "한스 로슬링 갭마인더는 대표적인 관계 시각화 종류 중 하나로, 버블 차트에 해당한다.",
+    "choices": [
+      "O",
+      "X"
+    ],
+    "answer": 1,
+    "explanation": "O"
   }
 ]

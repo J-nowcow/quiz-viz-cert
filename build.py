@@ -160,7 +160,7 @@ h2 {{ font-size: 1.15rem; font-weight: 600; margin-bottom: 12px; }}
 <!-- HOME SCREEN -->
 <div id="screen-home">
   <h1>📊 경영정보시각화</h1>
-  <p class="subtitle">자격증 시험 대비 퀴즈 (180문항)</p>
+  <p class="subtitle">자격증 시험 대비 퀴즈 (256문항)</p>
 
   <div id="home-stats" class="card">
     <div class="stat-grid">
@@ -219,9 +219,13 @@ h2 {{ font-size: 1.15rem; font-weight: 600; margin-bottom: 12px; }}
     <div class="exam-name">📋 2024 제1회 기출</div>
     <div class="exam-info">3과목 60문항 · 실전 기출문제</div>
   </div>
+  <div class="exam-option" data-exam="확인학습" onclick="selectExam(this)">
+    <div class="exam-name">📖 확인학습</div>
+    <div class="exam-info">이론 차시별 복습 76문항 · 빈칸/용어/O·X</div>
+  </div>
   <div class="exam-option" data-exam="랜덤 혼합" onclick="selectExam(this)">
     <div class="exam-name">🎲 랜덤 혼합</div>
-    <div class="exam-info">전체 180문항에서 과목별 20문제 랜덤 출제</div>
+    <div class="exam-info">전체 256문항에서 과목별 20문제 랜덤 출제</div>
   </div>
 
   <div style="margin-top:16px;">
@@ -332,7 +336,7 @@ h2 {{ font-size: 1.15rem; font-weight: 600; margin-bottom: 12px; }}
 // ── DATA ──
 const QUIZ_DATA = {quiz_json};
 
-const EXAMS = ["모의고사 A형", "모의고사 B형", "2024 제1회 기출"];
+const EXAMS = ["모의고사 A형", "모의고사 B형", "2024 제1회 기출", "확인학습"];
 const SUBJECTS = [
   {{ id: 1, name: "경영정보 일반" }},
   {{ id: 2, name: "데이터 해석 및 활용" }},
