@@ -197,6 +197,14 @@ h2 {{ font-size: 1.15rem; font-weight: 600; margin-bottom: 12px; }}
     <div class="mode-desc">틀린 문제만 모아서 재풀이</div>
   </div>
 
+  <a href="notes.html" style="text-decoration:none;">
+  <div class="card mode-card">
+    <div class="mode-icon">📚</div>
+    <div class="mode-title">이론 정리</div>
+    <div class="mode-desc">3과목 핵심 개념 · 빈출 키워드 · 기출 포인트</div>
+  </div>
+  </a>
+
   <div style="text-align:center; margin-top:16px;">
     <button class="btn btn-sm btn-outline" onclick="if(confirm('모든 풀이 기록을 초기화할까요?'))resetAll()">기록 초기화</button>
   </div>
