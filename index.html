@@ -250,13 +250,13 @@ h2 { font-size: 1.15rem; font-weight: 600; margin-bottom: 12px; }
 
   <div class="card" id="exam-question-card"></div>
 
-  <div class="q-grid" id="exam-q-grid"></div>
-
   <div class="nav-bar">
     <button class="btn btn-outline btn-sm" id="exam-prev" onclick="examNav(-1)">← 이전</button>
     <button class="btn btn-success btn-sm" id="exam-submit" disabled onclick="submitExam()">제출하기 <span id="exam-submit-count"></span></button>
     <button class="btn btn-primary btn-sm" id="exam-next" onclick="examNav(1)">다음 →</button>
   </div>
+
+  <div class="q-grid" id="exam-q-grid"></div>
 </div>
 
 <!-- PRACTICE MODE SCREEN -->
@@ -808,6 +808,9 @@ function escapeHtml(str) {
   div.textContent = str;
   return div.innerHTML;
 }
+function boldify(str) {
+  return str.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
+}
 
 function renderQuestionHTML(q, chosen, showAnswer) {
   let html = '<div class="q-header">';
@@ -830,9 +833,9 @@ function renderQuestionHTML(q, chosen, showAnswer) {
     }
   }
 
-  html += `<div class="q-text">${escapeHtml(mainText.join('\n'))}</div>`;
+  html += `<div class="q-text">${boldify(escapeHtml(mainText.join('\n')))}</div>`;
   if (contextText.length > 0) {
-    html += `<div class="q-context">${escapeHtml(contextText.join('\n'))}</div>`;
+    html += `<div class="q-context">${boldify(escapeHtml(contextText.join('\n')))}</div>`;
   }
 
   // Choices
